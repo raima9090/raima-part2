@@ -1,3 +1,3 @@
 <?php
-echo "Hello from GitHub Actions - Version 2.0!";
+echo "Hello from GitHub Actions - Version 1.0!";
 ?>
